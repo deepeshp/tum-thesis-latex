@@ -1,0 +1,31 @@
+\BOOKMARK [0][-]{Doc-Start}{Acknowledgments}{}% 1
+\BOOKMARK [0][-]{chapter*.1}{Abbreviations and Acronyms}{}% 2
+\BOOKMARK [0][-]{chapter*.2}{Abstract}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Fishery Exchange}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Combinatorial Exchange Model}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Budget constraints}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Combinatorial Exchange}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Design Desiderata}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{Core in Combinatorial Exchanges}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.3}{Bilevel Programming Model}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.3.1}{Fishery Exchange Bilevel Formulation}{section.2.3}% 12
+\BOOKMARK [1][-]{section.2.4}{Solving Bilevel Programs}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Zeng's Algorithm}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.2}{Solving FEx using Zeng's Algorithm}{section.2.4}% 15
+\BOOKMARK [0][-]{chapter.3}{Implementation and Results}{}% 16
+\BOOKMARK [1][-]{section.3.1}{System Requirements}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Input and Output Format}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.3}{Instance specific settings}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.4}{Generalized Object-Oriented Framework}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.5}{Execution}{chapter.3}% 21
+\BOOKMARK [0][-]{chapter.4}{Improvements on Algorithm}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Delayed Coalition Generation}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{KKT Pruning}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.3}{FEx specific Improvements}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.4}{Instance specific Improvements}{chapter.4}% 26
+\BOOKMARK [0][-]{chapter.5}{Conclusions}{}% 27
+\BOOKMARK [1][-]{section.5.1}{Summary}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.2}{Future Work}{chapter.5}% 29
+\BOOKMARK [0][-]{chapter*.4}{List of Figures}{}% 30
+\BOOKMARK [0][-]{chapter*.5}{List of Tables}{}% 31
